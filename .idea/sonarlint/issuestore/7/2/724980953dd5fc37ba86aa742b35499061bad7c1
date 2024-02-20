@@ -1,0 +1,220 @@
+
+
+java:S1192"rDefine a constant instead of duplicating this literal "Du lieu nhap vao khong hop le. Vui long nhap lai." 8 times.(¤ñš¶ûÿÿÿÿ
+e
+java:S1192*"JDefine a constant instead of duplicating this literal "Ban chon:" 7 times.(ƒºı›ÿÿÿÿÿ
+Ä
+java:S1192 "­Define a constant instead of duplicating this literal "//  .%%..%%..%%%%%%..%%.%%%..%%.%%%............%%....%%%%%%....%%............%%..%%..%%..%%..%%.%%%..%%.%%%." 6 times.(©Ç¢‰
+‹
+java:S1192&"uDefine a constant instead of duplicating this literal "---------------------------------------------------" 14 times.(³‘Š×
+€
+java:S1192;"jDefine a constant instead of duplicating this literal "Ban nhap khong hop le, vui long nhap lai." 7 times.(©Ù£ğ
+Ä
+java:S1192"­Define a constant instead of duplicating this literal "//  .%%..%%..%%..%%..%%%.%%..%%...............%%%%...%%..%%...%%%%...........%%..%%..%%..%%..%%%.%%..%%....." 6 times.(Æîƒ¿
+
+java:S1192'"tDefine a constant instead of duplicating this literal "|          1. Quay lai          2. Thoat          |" 7 times.(ÈºŞœıÿÿÿÿ
+Ä
+java:S1192""­Define a constant instead of duplicating this literal "//  .%%%%%...%%..%%..%%..%%...%%%%...........%%..%%..%%..%%....%%............%%%%%....%%%%...%%..%%...%%%%.." 6 times.(ÍòáÛ
+s
+java:S11926"]Define a constant instead of duplicating this literal "Ban chon thoat chuong trinh." 8 times.(à¦èÒ
+Ä
+java:S1192!"­Define a constant instead of duplicating this literal "//  .%%..%%..%%..%%..%%..%%..%%..%%...........%%%%...%%..%%....%%............%%..%%..%%..%%..%%..%%..%%..%%." 6 times.(û—à­
+É
+java:S1192"­Define a constant instead of duplicating this literal "//  .%%%%%....%%%%...%%..%%...%%%%...........%%..%%...%%%%...%%..%%..........%%%%%...%%..%%..%%..%%...%%%%.." 6 times.(é•éŠûÿÿÿÿ
+Ê
+java:S1192"®Define a constant instead of duplicating this literal "//  ........................................................................................................" 12 times.(ƒşËšşÿÿÿÿ
+n
+java:S11922"SDefine a constant instead of duplicating this literal "Ban chon Quay lai." 7 times.(®ùû•øÿÿÿÿ
+H
+java:S11995"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+H
+java:S1199Z"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+H
+java:S1199"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+I
+java:S1199¤"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+I
+java:S1199Ã"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+I
+java:S1199è"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+I
+java:S1199"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 89 to the 15 allowed.(Çµí‘
+P
+java:S18547"5Remove this useless assignment to local variable "a".(õèúÿÿÿÿ
+P
+java:S1854\"5Remove this useless assignment to local variable "a".(õèúÿÿÿÿ
+Q
+java:S1854"5Remove this useless assignment to local variable "a".(õèúÿÿÿÿ
+Q
+java:S1854¦"5Remove this useless assignment to local variable "a".(õèúÿÿÿÿ
+Q
+java:S1854Å"5Remove this useless assignment to local variable "a".(õèúÿÿÿÿ
+Q
+java:S1854ê"5Remove this useless assignment to local variable "a".(õèúÿÿÿÿ
+Q
+java:S1854"5Remove this useless assignment to local variable "a".(õèúÿÿÿÿ
+6
+java:S1659" Declare "tl" on a separate line.(æ˜ß½
+@	java:S106	"+Replace this use of System.out by a logger.(ÙŒÉ
+@	java:S106
+"+Replace this use of System.out by a logger.(ÒµÅ
+@	java:S106"+Replace this use of System.out by a logger.(¸ÖëÍ
+@	java:S106"+Replace this use of System.out by a logger.(È±ú“
+E	java:S106"+Replace this use of System.out by a logger.(îŞôşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ùïŒğùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÁŞã
+@	java:S106"+Replace this use of System.out by a logger.(Æİ¶ï
+E	java:S106"+Replace this use of System.out by a logger.(ã“††ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ø©½¯
+@	java:S106"+Replace this use of System.out by a logger.(ÙŒÉ
+E	java:S106"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+d
+java:S1871‹"HThis case's code block is the same as the block for the case on line 28.(µ»ïşıÿÿÿÿ
+^
+java:S1871ô"HThis case's code block is the same as the block for the case on line 28.(ÒñŠ{
+c
+java:S1871A"HThis case's code block is the same as the block for the case on line 28.(úâúÿÿÿÿ
+^
+java:S1871Ï"HThis case's code block is the same as the block for the case on line 28.(û¿4
+c
+java:S1871f"HThis case's code block is the same as the block for the case on line 28.(‰ÆÄÎşÿÿÿÿ
+@
+java:S1219$"%Remove this misleading "OUTER" label.(ŞåÉÈıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(é•éŠûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Æîƒ¿
+@	java:S106 "+Replace this use of System.out by a logger.(©Ç¢‰
+@	java:S106!"+Replace this use of System.out by a logger.(û—à­
+@	java:S106""+Replace this use of System.out by a logger.(ÍòáÛ
+E	java:S106#"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+V
+java:S1119$";Refactor the code to remove this label and the need for it.(ŞåÉÈıÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(³‘Š×
+E	java:S106'"+Replace this use of System.out by a logger.(ÈºŞœıÿÿÿÿ
+@	java:S106("+Replace this use of System.out by a logger.(³‘Š×
+E	java:S106*"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+f	java:S1285"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(®ùû•øÿÿÿÿ
+@	java:S1066"+Replace this use of System.out by a logger.(à¦èÒ
+@	java:S106;"+Replace this use of System.out by a logger.(©Ù£ğ
+@
+java:S1219I"%Remove this misleading "OUTER" label.(ŞåÉÈıÿÿÿÿ
+E	java:S106B"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(é•éŠûÿÿÿÿ
+@	java:S106D"+Replace this use of System.out by a logger.(Æîƒ¿
+@	java:S106E"+Replace this use of System.out by a logger.(©Ç¢‰
+@	java:S106F"+Replace this use of System.out by a logger.(û—à­
+@	java:S106G"+Replace this use of System.out by a logger.(ÍòáÛ
+E	java:S106H"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+V
+java:S1119I";Refactor the code to remove this label and the need for it.(ŞåÉÈıÿÿÿÿ
+@	java:S106K"+Replace this use of System.out by a logger.(³‘Š×
+E	java:S106L"+Replace this use of System.out by a logger.(ÈºŞœıÿÿÿÿ
+@	java:S106M"+Replace this use of System.out by a logger.(³‘Š×
+E	java:S106O"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+f	java:S128Z"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ
+E	java:S106W"+Replace this use of System.out by a logger.(®ùû•øÿÿÿÿ
+@	java:S106["+Replace this use of System.out by a logger.(à¦èÒ
+@	java:S106`"+Replace this use of System.out by a logger.(©Ù£ğ
+@
+java:S1219n"%Remove this misleading "OUTER" label.(ŞåÉÈıÿÿÿÿ
+E	java:S106g"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+E	java:S106h"+Replace this use of System.out by a logger.(é•éŠûÿÿÿÿ
+@	java:S106i"+Replace this use of System.out by a logger.(Æîƒ¿
+@	java:S106j"+Replace this use of System.out by a logger.(©Ç¢‰
+@	java:S106k"+Replace this use of System.out by a logger.(û—à­
+@	java:S106l"+Replace this use of System.out by a logger.(ÍòáÛ
+E	java:S106m"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+V
+java:S1119n";Refactor the code to remove this label and the need for it.(ŞåÉÈıÿÿÿÿ
+@	java:S106p"+Replace this use of System.out by a logger.(³‘Š×
+E	java:S106q"+Replace this use of System.out by a logger.(ÈºŞœıÿÿÿÿ
+@	java:S106r"+Replace this use of System.out by a logger.(³‘Š×
+E	java:S106t"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+E	java:S106w"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ
+E	java:S106|"+Replace this use of System.out by a logger.(®ùû•øÿÿÿÿ
+A	java:S106€"+Replace this use of System.out by a logger.(à¦èÒ
+A	java:S106…"+Replace this use of System.out by a logger.(©Ù£ğ
+A
+java:S1219“"%Remove this misleading "OUTER" label.(ŞåÉÈıÿÿÿÿ
+F	java:S106Œ"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(é•éŠûÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(Æîƒ¿
+A	java:S106"+Replace this use of System.out by a logger.(©Ç¢‰
+A	java:S106"+Replace this use of System.out by a logger.(û—à­
+A	java:S106‘"+Replace this use of System.out by a logger.(ÍòáÛ
+F	java:S106’"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+W
+java:S1119“";Refactor the code to remove this label and the need for it.(ŞåÉÈıÿÿÿÿ
+A	java:S106•"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106–"+Replace this use of System.out by a logger.(ÈºŞœıÿÿÿÿ
+A	java:S106—"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106™"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+F	java:S106œ"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+g	java:S128¤"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ
+F	java:S106¡"+Replace this use of System.out by a logger.(®ùû•øÿÿÿÿ
+A	java:S106¥"+Replace this use of System.out by a logger.(à¦èÒ
+A	java:S106ª"+Replace this use of System.out by a logger.(©Ù£ğ
+A
+java:S1219²"%Remove this misleading "OUTER" label.(ŞåÉÈıÿÿÿÿ
+W
+java:S1119²";Refactor the code to remove this label and the need for it.(ŞåÉÈıÿÿÿÿ
+A	java:S106´"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106µ"+Replace this use of System.out by a logger.(ÈºŞœıÿÿÿÿ
+A	java:S106¶"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106¸"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+F	java:S106»"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+g	java:S128Ã"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ
+F	java:S106À"+Replace this use of System.out by a logger.(®ùû•øÿÿÿÿ
+A	java:S106Ä"+Replace this use of System.out by a logger.(à¦èÒ
+A	java:S106É"+Replace this use of System.out by a logger.(©Ù£ğ
+A
+java:S1219×"%Remove this misleading "OUTER" label.(ŞåÉÈıÿÿÿÿ
+F	java:S106Ğ"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+F	java:S106Ñ"+Replace this use of System.out by a logger.(é•éŠûÿÿÿÿ
+A	java:S106Ò"+Replace this use of System.out by a logger.(Æîƒ¿
+A	java:S106Ó"+Replace this use of System.out by a logger.(©Ç¢‰
+A	java:S106Ô"+Replace this use of System.out by a logger.(û—à­
+A	java:S106Õ"+Replace this use of System.out by a logger.(ÍòáÛ
+F	java:S106Ö"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+W
+java:S1119×";Refactor the code to remove this label and the need for it.(ŞåÉÈıÿÿÿÿ
+A	java:S106Ù"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106Ú"+Replace this use of System.out by a logger.(ÈºŞœıÿÿÿÿ
+A	java:S106Û"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106İ"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+F	java:S106à"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+g	java:S128è"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ
+F	java:S106å"+Replace this use of System.out by a logger.(®ùû•øÿÿÿÿ
+A	java:S106é"+Replace this use of System.out by a logger.(à¦èÒ
+A	java:S106î"+Replace this use of System.out by a logger.(©Ù£ğ
+A
+java:S1219ü"%Remove this misleading "OUTER" label.(ŞåÉÈıÿÿÿÿ
+F	java:S106õ"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+F	java:S106ö"+Replace this use of System.out by a logger.(é•éŠûÿÿÿÿ
+A	java:S106÷"+Replace this use of System.out by a logger.(Æîƒ¿
+A	java:S106ø"+Replace this use of System.out by a logger.(©Ç¢‰
+A	java:S106ù"+Replace this use of System.out by a logger.(û—à­
+A	java:S106ú"+Replace this use of System.out by a logger.(ÍòáÛ
+F	java:S106û"+Replace this use of System.out by a logger.(ƒşËšşÿÿÿÿ
+W
+java:S1119ü";Refactor the code to remove this label and the need for it.(ŞåÉÈıÿÿÿÿ
+A	java:S106ş"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106ÿ"+Replace this use of System.out by a logger.(ÈºŞœıÿÿÿÿ
+A	java:S106€"+Replace this use of System.out by a logger.(³‘Š×
+F	java:S106‚"+Replace this use of System.out by a logger.(ƒºı›ÿÿÿÿÿ
+F	java:S106…"+Replace this use of System.out by a logger.(¤ñš¶ûÿÿÿÿ
+g	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ
+F	java:S106Š"+Replace this use of System.out by a logger.(®ùû•øÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(à¦èÒ
+A	java:S106“"+Replace this use of System.out by a logger.(©Ù£ğ
+A	java:S106š"+Replace this use of System.out by a logger.(à¦èÒ
+F	java:S106"+Replace this use of System.out by a logger.(€öÇ©ıÿÿÿÿ
+İ
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 286 to 64, Complexity from 31 to 14, Nesting Level from 4 to 2, Number of Variables from 13 to 6.(Çµí‘
